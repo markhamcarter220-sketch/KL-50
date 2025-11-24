@@ -1,0 +1,1 @@
+export default function ResultsList({ results }) { return (<div>{results?.length||0} results</div>); }
